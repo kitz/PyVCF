@@ -71,7 +71,6 @@ setup(
         'Topic :: Scientific/Engineering :: Bio-Informatics',
       ],
     keywords='bioinformatics',
-    use_2to3=True,
     include_package_data=True,
     package_data = {
         '': ['*.vcf', '*.gz', '*.tbi'],
